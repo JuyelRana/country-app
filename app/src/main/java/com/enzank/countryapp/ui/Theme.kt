@@ -1,4 +1,4 @@
-package com.enzank.countryapp.ui.theme
+package com.enzank.countryapp.ui.ui
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
